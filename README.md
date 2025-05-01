@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhmasud&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmasud" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-
-- 📝 I regularly write articles on [https://masudblogpost.vercel.app/](https://masudblogpost.vercel.app/)
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning
 
 - 📫 How to reach me **shaikhmasud507@gmail.com**
 
